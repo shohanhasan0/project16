@@ -1,0 +1,48 @@
+.a1{
+        float: left;
+        width: 100%;}
+        .a1 img{
+            height: 500px;
+            
+        }
+        .a1{
+            float: left;
+            width: 20%;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon{
+    overflow: hidden;
+        width: 103%;
+        float: right;
+    }
+    .icon ul{
+        float:center;
+    }
+    .icon ul li{
+        list-style: none;
+        float: left;
+        }
+    .icon ul li a{
+        display: inline-block;
+        text-decoration: none;
+        padding-right: 40px;
+        font-family: sans-serif;
+        font-size: 15px;
+    }
